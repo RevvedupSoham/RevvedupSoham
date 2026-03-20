@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soham Dutta — aka RevvedUpSoham</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Computer+Vision+Systems;Machine+Learning+Projects;AI+%2B+Real+World+Applications;From+Idea+to+Working+Prototype&center=true&width=550&height=50&color=00C2FF&speed=50&repeat=true">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Computer+Vision+Systems;Machine+Learning+Projects;AI+%2B+Real+World+Applications;From+Idea+to+Working+Prototype&center=true&width=550&height=50&color=00FFAB&speed=65&repeat=true">
 </p>
 
 
