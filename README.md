@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham Dutta — aka RevvedUpSoham</h1>
+<h1 align="center"><i>Hi 👋, I'm Soham... — aka RevvedUpSoham</i></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Computer+Vision+Systems;Machine+Learning+Projects;AI+%2B+Real+World+Applications;From+Idea+to+Working+Prototype&center=true&width=550&height=50&color=00BFFF&speed=65&repeat=true">
