@@ -7,7 +7,11 @@
 
 
 # About Me:
-- I'm currently working on building computer vision systems and ML projects that turn data into real-world, interactive applications.<br> I’m open to collaborating on Computer vision, machine learning, and projects that mix AI with practical applications<br> - I’m looking for help with improving model performance, scaling ML projects, and exploring deeper concepts in deep learning.<br> - I’m currently learning Advanced machine learning, deep learning architectures, and better ways to build production-ready ML systems.<br> - Fun fact: I like turning ideas into working prototypes… even if they start as “this might not work” experiments.
+- I'm currently working on building **computer vision systems** and ML projects that turn data into real-world, interactive applications.
+- I’m open to collaborating on **Computer vision**, **machine learning**, and projects that mix **AI with practical applications**.
+- I’m looking for help with improving model performance, scaling ML projects, and exploring deeper concepts in **deep learning**.
+- I’m currently learning **Advanced machine learning**, **deep learning architectures**, and better ways to build production-ready ML systems.
+- **Fun fact**: I like turning ideas into working prototypes… even if they start as “this might not work” experiments.
 
 ## Currently Working On:
 - Evolving **AuraOS-v1** into a more robust and scalable system — redesigning components, adding new features, and refining performance (built and developed independently)
